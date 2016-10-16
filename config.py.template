@@ -1,0 +1,5 @@
+# Your Account Sid and Auth Token from twilio.com/user/account
+config.account_sid = ""
+config.auth_token  = ""
+
+config.from_num = "+15555555555"
